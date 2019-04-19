@@ -40,11 +40,3 @@ Method = PUT
 Endpoint = http://localhost/api/public/artikel/{id}
 
 Method = DELETE
-
-___
-
-### WebHade Creative Free Course
-
-Pelatihan Membuat Website Gratis
-
-informasi lengkap kunjungi [ http://webhade.id/freecourse/ ]
