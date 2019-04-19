@@ -1,0 +1,13 @@
+{
+    "name": "cmink-alone/simplerestfulapi",
+    "description": "RestFull Api PHP",
+    "homepage": "https://github.com/cmink-alone/simplerestfulapi",
+    "type": "WebService",
+    "license": "MIT",
+    "authors": [{
+        "name": "Muslimin",
+        "email": "cmink.stekomail@gmail.com",
+        "homepage": "https://cmink-alone.github.io",
+        "role": "Developer"
+    }],
+}
